@@ -3,7 +3,7 @@
 <img src="../../blob/master/src/avatars.png" alt="Avatar"/>
 </p> -->
 
-- I'm LAXIT KUMAR CHAUHAN 🧒🏻 (Same on right) I write code </> on ATOM [![ATOM](src/icon.png 250x250)](https://commons.wikimedia.org/wiki/File:Atom_1.0_icon.png).
+- I'm LAXIT KUMAR CHAUHAN 🧒🏻 (Same on right) I write code </> on ATOM [![ATOM](src/icon.png )].![ATOM](https://commons.wikimedia.org/wiki/File:Atom_1.0_icon.png = 20x20)
 
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
  - 📫 How to reach me: [![Mail 📩📧](../../blob/master/src/gmail.png)](mailto:kumarlaxitchauhan1410@gmail.com)

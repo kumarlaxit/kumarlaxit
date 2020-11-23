@@ -3,12 +3,12 @@
 <img src="../../blob/master/src/avatars.png" alt="Avatar"/>
 </p> -->
 
-- I'm LAXIT KUMAR CHAUHAN 🧒🏻 (Same on right) I write code </> on ATOM <img src="icon.png" width="5" height="6">.
+- I'm LAXIT KUMAR CHAUHAN 🧒🏻 (Same on right) I write code </> on ATOM <img src="src/icon.png" width="25">.
 
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
- - 📫 How to reach me: [![Mail 📩📧](../../blob/master/src/gmail.png)](mailto:kumarlaxitchauhan1410@gmail.com)
+ - 📫 How to reach me: [![Mail 📩📧](src/gmail.png)](mailto:kumarlaxitchauhan1410@gmail.com)
  - ⚡️ Fun fact: Right now, I’m reading about **Interesting Facts**📒 & know how to create environment according to need for project💻 and trying to be a Better me(What❗️ Can a lax do something like this?❓)
- - What I hate most: Slow **WiFi**,  ~~silly spelling mistgiitake~~, Some difference between **IOS** & **OS**
+ - What I hate most: Slow **WiFi**,  silly spelling mistgiitake, Some difference between **IOS** & **OS**
 
 #### What's going on?
  - Starting Javascript with DJANGO.

@@ -1,7 +1,7 @@
 ### Hi there 👋
-<!-- <p align="center">
-<img src="../../blob/master/src/avatars.png" alt="Avatar"/>
-</p> -->
+ <p align="center">
+<img src="src/AVATAR.png" alt="Avatar" width="120px">
+</p>
 
 - I'm LAXIT KUMAR CHAUHAN 🧒🏻 (Same on right) I write code </> on ATOM <img src="src/icon.png" width="25">.
 

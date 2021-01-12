@@ -3,16 +3,16 @@
 <img src="src/AVATAR.png" alt="Avatar" width="120px">
 </p>
 
-- I'm LAXIT KUMAR CHAUHAN 🧒🏻 (Same on right) I write code </> on ATOM <img src="src/icon.png" width="25">.
+- I'm LAXIT KUMAR CHAUHAN 🧒🏻 (Same on right) I write code </> on Visual Studio Code <img src="src/vs.png" width="25">.
 
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
  - 📫 How to reach me: [![Mail 📩📧](src/gmail.png)](mailto:kumarlaxitchauhan1410@gmail.com)
- - ⚡️ Fun fact: Right now, I’m reading about **Interesting Facts**📒 & know how to create environment according to need for project💻 and trying to be a Better me(What❗️ Can a lax do something like this?❓)
+ - ⚡️ Fun fact: Right now, I’m reading about **Interesting Facts**📒 & know how to create environment according to need for project💻 and trying to be a Better me(What❗️ Can a Dev do something like this?❓)
  - What I hate most: Slow **WiFi**,  ~~silly spelling mistgiitake~~, Some difference between **IOS** <img src="src/IOS.png" width="25"> & **OS** <img src="src/OS.png" width="25">
 
 #### What's going on?
- - Starting Javascript with DJANGO.
- - Working on Data Analysis
+ - Starting Angular.
+ - Working on Javascript with DJANGO
  - Laptop is on and working on Hacktoberfest.
 
 <!-- #### Do you have any blog?

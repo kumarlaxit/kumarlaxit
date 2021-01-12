@@ -4,6 +4,7 @@
 </p>
 
 - I'm LAXIT KUMAR CHAUHAN 🧒🏻 (Same on right) I write code </> on Visual Studio Code <img src="src/vs.png" width="25">.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarlaxit&theme=radical" alt="Top Lang" align="right"/>
 
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
  - 📫 How to reach me: [![Mail 📩📧](src/gmail.png)](mailto:kumarlaxitchauhan1410@gmail.com)
@@ -15,6 +16,8 @@
  - Working on Javascript with DJANGO
  - Laptop is on and working on Hacktoberfest.
 
+
+[![Laxit github status](https://github-readme-stats.vercel.app/api?username=kumarlaxit&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- #### Do you have any blog?
 Yup we got you covered i am too much excited.
 There is a too long story how this came to life. The story will be in about section. Wanna visit, just click on this👇👇.

@@ -13,9 +13,9 @@
  - What I hate most: Slow **WiFi**,  ~~silly spelling mistgiitake~~, Some difference between **IOS** <img src="src/IOS.png" width="25"> & **OS** <img src="src/OS.png" width="25">
 
 #### What's going on?
- - Starting Angular.
+ - Starting Android studio.
  - Working on Javascript with DJANGO
- - Laptop is on and working on Hacktoberfest.
+ - Laptop is on and working On Exams.
 
 
 [![Laxit github status](https://github-readme-stats.vercel.app/api?username=kumarlaxit&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

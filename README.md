@@ -15,7 +15,7 @@
 #### What's going on?
  - Starting Android studio.
  - Working on Javascript with DJANGO
- - Laptop is on and working On Exams.
+ - Life is Gone , Gone, Gone
 
 
 [![Laxit github status](https://github-readme-stats.vercel.app/api?username=kumarlaxit&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,21 +1,62 @@
-### Hi there 👋
-<p align="center">
-  <img src="src/AVATAR.png" alt="Avatar" width="120px">
-</p>
+# 👋 Hi, I'm **LAXIT KUMAR CHAUHAN** 🧑🏻‍💻
 
-- I'm LAXIT KUMAR CHAUHAN 🧒🏻. I write code </> on Android Studio Code <img src="src/vs.png" width="25">.
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarlaxit&theme=radical" alt="Top Lang" align="right"/>
+I write **code** </> on **Android Studio** <img src="https://img.icons8.com/ios/50/000000/visual-studio.png" width="25">.
+<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarlaxit&theme=radical&hide=html,css)  
+_**Top Languages I Code With**_
+-->
 
-- 🔭 I’m currently work💼 with Multitv. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
-- 📫 How to reach me: [![Mail 📩📧](src/gmail.png)](mailto:kumarlaxitchauhan1410@gmail.com)
-- ⚡️ Fun fact: Right now, I’m reading about **Interesting Facts**📒 & know how to create environment according to need for project💻 and trying to be a Better me(What❗️ Can a Dev do something like this?❓)
-- I never miss an opportunity to learn from my colleagues and gain knowledge in every way possible.
-- What I hate most: Slow **WiFi**, ~~silly spelling mistakes~~, Some differences between **iOS** <img src="src/IOS.png" width="25"> & **OS** <img src="src/OS.png" width="25">
+---
 
-#### What's going on?
-- Working on Android development.
-- Currently on AOL OTT APPLICATION.
-- Life is Gone, Gone, Gone.
+## 🔭 **Currently Working At:**
+**Multitv** — Developing high-quality mobile apps and pushing the boundaries of **Android development**. 🚀  
+*(Feel free to give a ⭐️ to my work!)*
+
+## 📫 **How to Reach Me:**  
+[![Mail 📩📧](https://img.icons8.com/ios/50/000000/gmail-new.png)](mailto:kumarlaxitchauhan1410@gmail.com)
+
+---
+
+## ⚡ **Fun Fact:**  
+I’m currently reading about **Interesting Facts** 📚 and learning how to create the ideal environment for each project 💻.  
+I’m constantly working on becoming a better version of myself—yes, a developer can do that! 😅
+
+---
+
+## 🎯 **What I Focus On:**
+- **Learning & Growing**: Always seeking new opportunities to learn and improve my skills.  
+- **Building Solutions**: Designing custom solutions for every project with precision and care. 🔥
+
+---
+
+## 💔 **What I Hate Most:**
+- Slow **Wi-Fi** 🕵️‍♂️  
+- ~~Silly spelling mistakes~~ 🧐  
+- The **iOS** 🍏 vs **Windows** 🖥️ debate. Can we all just get along? 🤔
+
+---
+
+## 🔥 **What's Happening Right Now?**
+- **Currently Working On:**  
+  - **Android Development**: Creating beautiful and functional mobile apps. 📱  
+  - **AOL OTT Application**: Building an awesome OTT experience for Android users. 🎬
+
+- **Life Motto:**  
+  "Life is Gone, Gone, Gone... but my code stays strong!" 🚀
+
+---
+
+## 💡 **Languages & Tools I Love:**
+- **Languages**: Kotlin, Java, XML, Dart  
+- **Tools & Frameworks**: Android Studio, Firebase, Retrofit, Jetpack, REST APIs, Git  
+- **Databases**: SQLite, Room, Firebase Firestore  
+- **Other Tools**: CI/CD, GitHub Actions, JUnit, Mockito
+
+---
+
+## 📢 **Let’s Build Something Amazing Together!**  
+If you’re interested in collaborating on a cool project or want to chat about the latest in Android development, feel free to reach out! Let’s make some magic happen. ✨
+
 
 [![Laxit github status](https://github-readme-stats.vercel.app/api?username=kumarlaxit&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

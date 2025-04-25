@@ -40,6 +40,20 @@ There is a too long story how this came to life. The story will be in the About 
 #### PTI (Press Trust of India) - OTT TV App (Jan 2023 - Present)
 - Contributing to PTI's NEWS service through an Android TV app, delivering news through multiple channels for an enriched viewing experience.
 
+#### Event App - MSVC 2025 (Apr 2025)
+- **Login Module:**
+  - Secure login with QR code scanning for event check-in and user authentication.
+- **Travel & Accommodation:**
+  - Real-time details on bus, flight, and hotel bookings, with seat assignments.
+- **Carousel Notifications:**
+  - Interactive notifications for event updates, speaker sessions, and offers.
+- **Currency Converter:**
+  - Real-time currency exchange for international users.
+- **Exhibition & Speakers:**
+  - Profiles for exhibitors and speakers, with session details and bios.
+- **Feedback System:**
+  - Users can rate sessions and provide feedback on events.
+
 #### Hurl - Taxi App (Service Provider App) (Jun 2022 - Sep 2022)
 - Played a key role in the development of a taxi booking application similar to OLA and Uber.
 - Designed and implemented two distinct applications for users and drivers, facilitating seamless cab bookings.

@@ -1,105 +1,180 @@
-# 👋 Hi, I'm **LAXIT KUMAR CHAUHAN** 🧑🏻‍💻
-
-I write **code** </> on **Android Studio** <img src="https://img.icons8.com/ios/50/000000/visual-studio.png" width="25">.
 <!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarlaxit&theme=radical&hide=html,css)  
-_**Top Languages I Code With**_
+  Hi 👋
+  This is the profile README for: github.com/kumarlaxit
 -->
 
----
+<h1 align="center">Hi, I'm <span style="color:#22c55e">Laxit Kumar Chauhan</span> 👋</h1>
 
-## 🔭 **Currently Working At:**
-**Multitv** — Developing high-quality mobile apps and pushing the boundaries of **Android development**. 🚀  
-*(Feel free to give a ⭐️ to my work!)*
-
-## 📫 **How to Reach Me:**  
-[![Mail 📩📧](https://img.icons8.com/ios/50/000000/gmail-new.png)](mailto:kumarlaxitchauhan1410@gmail.com)
-
-
----
-
-## ⚡ **Fun Fact:**  
-I’m currently reading about **Interesting Facts** 📚 and learning how to create the ideal environment for each project 💻.  
-I’m constantly working on becoming a better version of myself—yes, a developer can do that! 😅
-
----
-
-## 🎯 **What I Focus On:**
-- **Learning & Growing**: Always seeking new opportunities to learn and improve my skills.  
-- **Building Solutions**: Designing custom solutions for every project with precision and care. 🔥
-
----
-
-## 💔 **What I Hate Most:**
-- Slow **Wi-Fi** 🕵️‍♂️  
-- ~~Silly spelling mistakes~~ 🧐  
-- The **iOS** 🍏 vs **Windows** 🖥️ debate. Can we all just get along? 🤔
-
----
-
-## 🔥 **What's Happening Right Now?**
-- **Currently Working On:**  
-  - **Android Development**: Creating beautiful and functional mobile apps. 📱  
-  - **AOL OTT Application**: Building an awesome OTT experience for Android users. 🎬
-
-- **Life Motto:**  
-  "Life is Gone, Gone, Gone... but my code stays strong!" 🚀
-
----
-
-## 💡 **Languages & Tools I Love:**
-- **Languages**: Kotlin, Java, XML, Dart  
-- **Tools & Frameworks**: Android Studio, Firebase, Retrofit, Jetpack, REST APIs, Git  
-- **Databases**: SQLite, Room, Firebase Firestore  
-- **Other Tools**: CI/CD, GitHub Actions, JUnit, Mockito
-
----
-
-## 📢 **Let’s Build Something Amazing Together!**  
-If you’re interested in collaborating on a cool project or want to chat about the latest in Android development, feel free to reach out! Let’s make some magic happen. ✨
-
-
-[![Laxit github status](https://github-readme-stats.vercel.app/api?username=kumarlaxit&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- #### Do you have any blog?
-Yup we got you covered I am too much excited.
-There is a too long story how this came to life. The story will be in the About section. Wanna visit, just click on this👇👇.
 <p align="center">
-  <a href="https://blog.darkrasp -->
-  
-### Work Experience
+  <b>Android Developer · OTT · ExoPlayer · Live Streaming</b>
+</p>
 
-#### Art of Living (Jul 2023 - Present)
-- Engaged in learning Yoga, Asana, and Meditation techniques to foster mental well-being and enhance overall health and lifestyle.
-- Utilizing The Art of Living App to access comprehensive resources for both physical and mental health.
+<p align="center">
+  I build production-ready Android apps for streaming, events & media — with a strong focus on video playback, ExoPlayer, and clean architecture.
+</p>
 
-#### ALTT (ALT BALAJI) - OTT App for Mobile, TV, Fire TV (Oct 2022 - Present)
-- **Free Access:**
-  - Enjoying free entertainment on ALTT, offering a diverse range of web series, reality shows, and movies in multiple languages.
-- **Subscription Benefits:**
-  - Subscribed to ALTT for an ad-free experience and exclusive access to premium web series, reality shows, and uncensored content.
+---
 
-#### PTI (Press Trust of India) - OTT TV App (Jan 2023 - Present)
-- Contributing to PTI's NEWS service through an Android TV app, delivering news through multiple channels for an enriched viewing experience.
+## 🧭 Quick Snapshot
 
-#### Event App - MSVC 2025 (Apr 2025)
-- **Login Module:**
-  - Secure login with QR code scanning for event check-in and user authentication.
-- **Travel & Accommodation:**
-  - Real-time details on bus, flight, and hotel bookings, with seat assignments.
-- **Carousel Notifications:**
-  - Interactive notifications for event updates, speaker sessions, and offers.
-- **Currency Converter:**
-  - Real-time currency exchange for international users.
-- **Exhibition & Speakers:**
-  - Profiles for exhibitors and speakers, with session details and bios.
-- **Feedback System:**
-  - Users can rate sessions and provide feedback on events.
+- 🧑‍💻 <b>Role:</b> Android Developer (Mobile / TV / Fire TV)  
+- 🛰️ <b>Specialization:</b> OTT, Live & VOD Streaming, Advanced ExoPlayer  
+- 📍 <b>Location:</b> Gurugram, India  
+- 🌱 <b>Experience:</b> 3+ years  
+- 💼 <b>Current:</b> Building OTT & event apps at <b>MultiTV</b>  
+- 🚀 <b>Open to:</b> Android roles focused on streaming / product engineering
 
-#### Hurl - Taxi App (Service Provider App) (Jun 2022 - Sep 2022)
-- Played a key role in the development of a taxi booking application similar to OLA and Uber.
-- Designed and implemented two distinct applications for users and drivers, facilitating seamless cab bookings.
+---
 
-#### Groom Room - Service Provider App/Business App (Mar 2022 - Jun 2022)
-- Contributed to the development of a salon application with separate interfaces for users and service providers.
-- Enabled users to purchase salon products and book appointments for services by selecting a registered salon in their vicinity.
+## 🛠 Tech Stack & Strengths
+
+### 📚 Languages & Core
+
+- Kotlin  
+- Java  
+- Android SDK  
+- XML Layouts  
+
+### 🧱 Architecture & Patterns
+
+- MVVM · MVI · MVP  
+- Clean Architecture  
+- Jetpack Navigation  
+- Data Binding  
+
+### 🎬 Streaming & Backend
+
+- ExoPlayer (custom players, advanced configs)  
+- Live & VOD streaming  
+- DRM  
+- REST APIs · Retrofit  
+- Socket.io  
+- Zoom SDK  
+
+### 🧩 Platform & Tooling
+
+- Android Studio  
+- Git  
+- Firebase (Analytics, Crashlytics, FCM, etc.)  
+- Payment & Subscription Integration  
+- Jetpack Compose (in progress / working knowledge)
+
+---
+
+## 💼 Experience
+
+### 🔹 Android Developer · MultiTV  
+<sub><b>Oct 2022 – Present · Gurugram, Haryana</b></sub>
+
+**What I work on:**
+
+- Developed and maintained Android apps for OTT & live streaming platforms like **ALTT**, **PTI TV**, and **Art of Living**.  
+- Implemented advanced **ExoPlayer** features: custom controls, adaptive streaming, background playback, playlists.  
+- Integrated **Firebase**, REST APIs, **Zoom SDK**, and custom player modules with robust error handling and analytics.  
+- Applied **clean architecture** (MVVM / MVI, Data Binding, Retrofit, Jetpack Navigation) for maintainable, testable code.  
+- Optimized UI/UX and performance across **Android Mobile, Android TV, and Fire TV** devices.  
+
+---
+
+### 🔹 Jr. Android Developer · webAPP  
+<sub><b>Aug 2022 – Oct 2022 · Noida, UP</b></sub>
+
+- Supported Android app development using **Kotlin**, Android Studio, and XML layouts.  
+- Collaborated with backend engineers and worked in agile workflows to ship features quickly.  
+
+---
+
+### 💡 What I Bring to an Android Team
+
+- Production-grade streaming setups using **ExoPlayer**  
+- Low-latency live streaming and robust error handling  
+- Subscription, payments & secure content handling  
+- Zoom & real-time integrations (e.g. Socket.io)  
+- Clean, modular, and testable Kotlin code ready for scale  
+
+---
+
+## 🚀 Highlighted Android Projects (Production)
+
+### 🎥 ALTT (ALT Balaji) – OTT · Mobile & TV
+
+- Entertainment OTT app across Android, TV & Fire TV.  
+- Built a **custom ExoPlayer** experience with adaptive streaming, DRM, and content playlists.  
+- Implemented **subscription payments** and integrated **Firebase analytics**.
+
+**Tech:** Kotlin · ExoPlayer · DRM · Payments · Firebase  
+
+---
+
+### 🧘‍♂️ Art of Living – Wellness · Live Classes
+
+- Wellness & meditation app with integrated player modules and **Zoom SDK** for live sessions.  
+- Enabled secure payment flows and smooth playback for on-demand content.
+
+**Tech:** Zoom SDK · ExoPlayer · Payments  
+
+---
+
+### 📰 PTI TV – News · Android TV
+
+- Live news streaming app for **Press Trust of India** on Android TV.  
+- Combined **Firebase**, **Socket.io**, and **ExoPlayer** to deliver stable, low-latency live channels.
+
+**Tech:** Android TV · Socket.io · Firebase  
+
+---
+
+### 📿 GIEO GITA – Spiritual Media Platform
+
+- Spiritual learning app with donations, room booking, multilingual Gita PDFs.  
+- Integrated in-app music/video player using **ExoPlayer** for devotional content.
+
+**Tech:** ExoPlayer · Multi-language · Donations  
+
+---
+
+### 📺 Mastii • FaithTime • MenaFlix • MyFlix – OTT / VOD Suite
+
+- Family of OTT/VOD apps similar to ALTT under MultiTV.  
+- Focused on player integration, subscription flows, and UI enhancements to improve engagement & retention.
+
+**Tech:** Kotlin · MVVM · Retrofit · Firebase · UI/UX  
+
+---
+
+### 🎟️ Private Event Check-In – Events · NFC
+
+- NFC-based event attendance and badge-printing solution.  
+- Built real-time participant tracking and media playback for event highlights.
+
+**Tech:** Kotlin · NFC · Real-time integrations  
+
+---
+
+## 🎓 Education & Certification
+
+- 🎓 **MCA – Master of Computer Applications**  
+  *Lovely Professional University · 2022 – 2024*  
+
+- 🎓 **BCA – Bachelor of Computer Applications**  
+  *Delhi Technical Campus · 2019 – 2022*  
+
+- 🏅 **Certification:**  
+  `Google Professional Cloud Security Engineer`
+
+---
+
+## 📬 Contact & Links
+
+- 📧 Email: **[kumarlaxitchauhan@gmail.com](mailto:kumarlaxitchauhan@gmail.com)**  
+- 📱 Phone: **+91 83848 93139**  
+- 💼 LinkedIn: **[laxit-kumar-chauhan](https://www.linkedin.com/in/laxit-kumar-chauhan-18b956209)**  
+- 🧑‍💻 GitHub: **[github.com/kumarlaxit](https://github.com/kumarlaxit)**  
+- 🌐 Portfolio: **[devlax.space](https://devlax.space)**  
+
+---
+
+
+<p align="center">
+  <i>“Building Android streaming experiences that don’t buffer.”</i> 🎬 📲
+</p>
